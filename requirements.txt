@@ -2,9 +2,9 @@
 # The Python Worker is managed by Azure Functions platform
 # Manually managing azure-functions-worker may cause unexpected issues
 
-azure-functions==1.12.0
-aspose-words==22.12.0
-imagekitio==3.0.1
-numpy==1.23.5
-pandas==1.5.2
-tensorflow==2.11.0
+azure-functions
+aspose-words
+imagekitio
+numpy
+pandas
+tensorflow
